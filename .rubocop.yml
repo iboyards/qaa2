@@ -11,7 +11,7 @@ AllCops:
     - 'bin/**/*'
 
 Style/Encoding:
-  Enabled: false
+  Enabled: true
 
 Metrics/LineLength:
   Max: 100
